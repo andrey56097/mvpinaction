@@ -1,0 +1,1 @@
+This is a sample project which demonstrates the power of GWT's MVP internal framework
